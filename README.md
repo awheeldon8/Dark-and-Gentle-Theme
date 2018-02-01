@@ -10,7 +10,7 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 # Screenshots
 
 ### HTML
-! [HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/alexwp.dark-and-gentle-theme/Html.png)
+![HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/Html.png)
 
 ### CSS
-! [HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/alexwp.dark-and-gentle-theme/CSS.png
+![HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/CSS.png)
