@@ -6,3 +6,11 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 # License
 * Theme under MIT license [`LICENSE`](LICENSE)
+
+# Screenshots
+
+### HTML
+! [HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/alexwp.dark-and-gentle-theme/Html.png)
+
+### CSS
+! [HTML] (https://github.com/awheeldon8/Dark-and-Gentle-Theme/blob/master/alexwp.dark-and-gentle-theme/CSS.png
