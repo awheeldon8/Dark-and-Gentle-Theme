@@ -2,8 +2,8 @@
     "title": "Dark and Gentle",
     "description": "A variation on Gregoire Thibaud's Smart-Dark-Theme for Brackets",
     "homepage": "https://github.com/awheeldon8/Dark-and-Gentle-Theme",
-    "version": "1",
-    "author": "Alex Wheeldon-Price,
+    "version": "1.0.0",
+    "author": "Alex Wheeldon-Price",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
