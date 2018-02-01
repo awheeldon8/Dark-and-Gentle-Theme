@@ -1,0 +1,14 @@
+{"name": "alexwp.dark-and-gentle",
+    "title": "Dark and Gentle",
+    "description": "A variation on Gregoire Thibaud's Smart-Dark-Theme for Brackets",
+    "homepage": "https://github.com/awheeldon8/Dark-and-Gentle-Theme",
+    "version": "1",
+    "author": "Alex Wheeldon-Price,
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme","smart","colored","color","material","bold","minimal"]
+}
